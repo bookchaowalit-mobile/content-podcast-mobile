@@ -14,7 +14,7 @@ Compose UI is still a placeholder and the Android build is unverified locally.
 - P1: RSS parsing of show feeds in `core` with fixture tests; subscription list.
 - P1: Media3/ExoPlayer playback service driven by `PlayQueue` + `ProgressTracker`; persist progress.
 - P2: Compose UI tests (`androidx.compose.ui:ui-test-junit4`) for the main flow.
-- P2: Pin `distributionSha256Sum` in `gradle-wrapper.properties`.
+- ~~P2: Pin `distributionSha256Sum` in `gradle-wrapper.properties`.~~ Done 2026-10-22.
 
 ## Done in this pass (pass 1)
 
